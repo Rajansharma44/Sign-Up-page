@@ -1,0 +1,83 @@
+body{
+    margin: 20px;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    background-size:cover ;
+    background-position: center;
+    
+}
+.sign-up form
+{
+    width: 400px;
+    box-shadow: 0 0 3px 0 rgba(222, 219, 219, 0.3);
+    background:hsl(0, 25%, 91%);
+    background-image: black;
+    padding: 20px;
+    margin:8% auto 0; 
+    text-align: center;
+}
+
+.sign-up form h1{
+    color:rgb(4, 4, 4);
+    margin-bottom: 30px; ;
+    border: rgb(255, 0, 140);
+}
+
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+}
+button
+{
+    color:rgb(72, 72, 168);
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.signup-btn{
+    background-color: rgb(185, 223, 204);
+}
+.Crown-btn{
+    background-color: rgb(191, 215, 208);
+}
+a{
+    text-decoration: none;
+}
+hr{
+    margin-top: 20px;
+    width: 80%;
+}
+.OR{
+    background-color:#fff;
+    width: 30px;
+    margin: -19px auto 10px;
+
+}
+.img{
+    width: 70px;
+    margin-top: 50px;
+
+}
+.Excess
+{
+    text-align: auto;
+    color: #fff;
+    border-color: #fff;
+}
+
+.checkbox
+{
+    text-decoration-color: aqua;
+    background-color: #999;
+
+}
